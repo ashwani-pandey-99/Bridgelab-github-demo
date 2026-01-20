@@ -1,3 +1,0 @@
-TicketID: TKT-716073, Name: Ashwani pandey, Issue: App Crash, Priority: high
-TicketID: TKT-421853, Name: Akash, Issue: App Crash, Priority: high
-TicketID: TKT-464323, Name: Akash, Issue: App Crash, Priority: high
