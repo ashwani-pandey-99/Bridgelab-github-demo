@@ -1,0 +1,3 @@
+Product: Phone, Price: 30000, Discount: 5
+Product: Phone, Price: 30000, Discount: 5
+Product: Mobile, Price: 20000, Discount: 10
